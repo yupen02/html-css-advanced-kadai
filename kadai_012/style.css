@@ -507,7 +507,7 @@ li{
 .case-card{
   background-color: #FFFFFF;
   min-height: 400px;
-  box-shadow: 3px 3px 5px grey;
+  box-shadow: 5px 5px 5px rgb(245, 239, 239);
 }
 .case-img{
   width: 100%;
